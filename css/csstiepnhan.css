@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form1 table {
+	text-align:center;
+	border:1px
+	text-align: center;
+	background-color: #FFF;
+}
+.title {
+	background-color: #999;
+	text-align: center;
+}
