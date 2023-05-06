@@ -1,8 +1,12 @@
-
+<style>
+  .container{
+    padding-top: 10px;
+  }
+</style>
   <footer class="page-footer">
     <div class="container">
       <div class="row px-md-3">
-        <div class="col-sm-6 col-lg-3 py-3">
+        <div class="col-sm-8 col-lg-4 py-4">
           <h5>Company</h5>
           <ul class="footer-menu">
             <li><a href="#">About Us</a></li>
@@ -11,28 +15,27 @@
             <li><a href="#">Protection</a></li>
           </ul>
         </div>
-        <div class="col-sm-6 col-lg-3 py-3">
+        <!-- <div class="col-sm-6 col-lg-3 py-3">
           <h5>More</h5>
           <ul class="footer-menu">
             <li><a href="#">Terms & Condition</a></li>
             <li><a href="#">Privacy</a></li>
             <li><a href="#">Advertise</a></li>
-            <li><a href="#">Join as </a></li>
+            <li><a href="#">Join as Doctors</a></li>
           </ul>
-        </div>
-        <div class="col-sm-6 col-lg-3 py-3">
-          <h5>Our partner</h5>
+        </div> -->
+        <div class="col-sm-8 col-lg-4 py-4">
+          <h5>Các thành viên nhóm 10: </h5>
           <ul class="footer-menu">
-            <li><a href="#">One-Fitness</a></li>
-            <li><a href="#">One-Drugs</a></li>
-            <li><a href="#">One-Live</a></li>
+            <li><a href="#">Trọng Hiếu</a></li>
+            <li><a href="#">Phạm Văn Mạnh</a></li>
           </ul>
         </div>
-        <div class="col-sm-6 col-lg-3 py-3">
-          <h5>Contact</h5>
-          <p class="footer-link mt-2">351 Willow Street Franklin, MA 02038</p>
-          <a href="#" class="footer-link">701-573-7582</a>
-          <a href="#" class="footer-link">manhc3dth@gamil.com</a>
+        <div class="col-sm-8 col-lg-4 py-4">
+          <h5>Liên hệ</h5>
+          <p class="footer-link mt-2">12 Nguyễn Văn Bảo, Phường 4, quận Gò Vấp, TP.HCM</p>
+          <a href="#" class="footer-link mt-2">701-573-7582</a></br>
+          <a href="#" class="footer-link mt-2">healthcare@gmail.com</a>
 
           <h5 class="mt-3">Social Media</h5>
           <div class="footer-sosmed mt-3">
@@ -58,8 +61,11 @@
 <script src="../view/Assets/vendor/owl-carousel/js/owl.carousel.min.js"></script>
 
 <script src="../view/Assets/vendor/wow/wow.min.js"></script>
+<script src="../view/Assets/js/google-maps.js"></script>
 
 <script src="../view/Assets/js/theme.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIA_zqjFMsJM_sxP9-6Pde5vVCTyJmUHM&callback=initMap"></script>
+ 
   
 </body>
 </html>

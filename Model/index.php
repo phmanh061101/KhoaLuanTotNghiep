@@ -7,4 +7,6 @@
     include "components/PatientRecord.php";
     include "components/Request.php";
     include "components/RequestHospitalTransfer.php";
+    include "components/AskForAdvice.php";
+   
 ?>
